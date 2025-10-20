@@ -8,7 +8,8 @@
 - [Анкета для заказчика](content/questionnaire.md)
 - [Протокол встречи](content/minutes_of_meeting.md)
 - [План коммуникации](content/communication%20plan.md)
-
+- [Официальная анкета](content/official-questionnaire.pdf)
+- [Официальный протокол](content/minutes_of_meeting_signs.pdf)
 
 ---
 

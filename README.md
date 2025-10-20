@@ -8,9 +8,8 @@
 - [Анкета для заказчика](content/questionnaire.md)
 - [Протокол встречи](content/minutes_of_meeting.md)
 - [План коммуникации](content/communication%20plan.md)
-- [Официальный протокол](content/official-questionnaire.pdf)
-- [Интервью](content/interview.md) 
-
+- [Официальная анкета](content/official-questionnaire.pdf)
+- [Официальный протокол](content/minutes_of_meeting_signs.pdf)
 ---
 
 Репозиторий соответствует требованиям задания по курсу "Групповая динамика и коммуникации в профессиональной практике программной инженерии"

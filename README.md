@@ -7,7 +7,9 @@
 - [Инструкция по управлению репозиторием](docs/contribution.md)
 - [Анкета для заказчика](content/questionnaire.md)
 - [Протокол встречи](content/minutes_of_meeting.md)
-- [План коммуникации](content/communication_plan.md)
+- [План коммуникации](content/communication%20plan.md)
+- [Официальный протокол](content/official-questionnaire.pdf)
+- [Интервью](content/interview.md) 
 
 ---
 
